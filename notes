@@ -1,0 +1,33 @@
+## Subjects
+
+## pg
+
+items
+products
+categories
+shops
+measures
+currencies
+
+---
+
+## mongo
+
+users
+roles
+tokens
+
+---
+
+## Verbs
+
+CRUD
+statistic:
+
+getMoneyByCategoryPerWeek
+getMoneyByCategoryPerMonth
+getMoneyByCategoryPerYear
+
+getMoneyByShopPerWeek
+getMoneyByShopPerMonth
+getMoneyByShopPerYear
