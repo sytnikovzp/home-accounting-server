@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const http = require('http');
 // ====================================================
 require('dotenv').config();
